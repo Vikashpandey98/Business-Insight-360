@@ -158,11 +158,12 @@ Fact table : It will have the data about the transactions
 
 <img src="Data model.png" class="center">
 
-### Dashboard designing
 
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
 ## Home view
+
+<img src="" class="center">
+
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
