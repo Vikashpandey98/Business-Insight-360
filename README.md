@@ -169,12 +169,17 @@ In Home view, all the views button will be available. User will land on specific
 
 - Info
 - Finance View
+   <img src="finance view.png" class="center">
 - Sales View
+  <img src="sales view.png" class="center">
 - Marketing View
+  <img src="marketing view.png" class="center">
 - Supply chain View
+  <img src="supply chain view.png" class="center">
 - Executive View
-- Products
+  <img src="executive view.png" class="center">
 - Support
+  <img src="support.png" class="center">
 
 ## Overall Report
 
