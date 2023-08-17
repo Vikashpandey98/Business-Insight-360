@@ -162,7 +162,7 @@ Fact table : It will have the data about the transactions
 
 ## Home view
 
-<img src="" class="center">
+<img src="Home page.png" class="center">
 
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
