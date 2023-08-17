@@ -156,7 +156,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="" class="center">
+<img src="Data model.png" class="center">
 
 ### Dashboard designing
 
@@ -177,36 +177,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif]()
-
-## Info Page
-
-![Info.gif]()
-
-## Finance View
-
-![Finace.gif]()
-## Sales View
-
-![Sales.gif]()
-
-## Marketing View
-
-![Marketing.gif]()
-
-## Supply chain View
-
-![Supply chain.gif]()
-
-## Executive View
-
-![Executive.gif]()
-
-## Products
-
-![Products]()
-
-you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiZTkzYmVlMzMtYTYxMi00NTQ1LWI1MzQtZjA4MDM0MTJmODVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+you can find the full report file here : [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTkzYmVlMzMtYTYxMi00NTQ1LWI1MzQtZjA4MDM0MTJmODVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Project Outcome
